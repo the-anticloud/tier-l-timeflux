@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:95ad6623-74c5-5742-b550-15cadd457347",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-13T20:37:52Z",
+    "component": {
+      "type": "application",
+      "name": "L_TIMEFLUX",
+      "version": "f9b68163cdbd",
+      "bom-ref": "pkg:generic/anticloud/L_TIMEFLUX@f9b68163cdbd",
+      "purl": "pkg:generic/anticloud/L_TIMEFLUX@f9b68163cdbd",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "f9b68163cdbd9cdce5a87204f6206d0a73ff3d02"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/timeflux/timeflux"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}

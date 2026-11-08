@@ -1,0 +1,5 @@
+# Extension Guide — L_TIMEFLUX
+
+To extend L_TIMEFLUX with AIOSS ledger:
+1. Import `aioss_integration.py`
+2. Call `log_call()` around key inference calls
